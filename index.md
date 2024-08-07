@@ -6,27 +6,26 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Welcome to Isomer
+      subtitle: Here is a guide you can use.
+      background: /images/hero-banner.png
+      button: Start your journey
+      url: /contact-us/
+      key_highlights:
+        - title: Basics
+          description: Creating and editing pages
+          url: https://google.com
+        - title: advanced features
+          description: Integrations and settings
+          url: https://gmail.com
+        - title: best practices
+          description: Organisation and SEO
+          url: /privacy/
+  - infobar:
+      title: How do I create a page?
+      subtitle: Subtitle
+      description: Pages are fundamental
+      button: Button text
+      url: /faq/
 ---
-
