@@ -22,6 +22,9 @@ sections:
         - title: best practices
           description: Organisation and SEO
           url: /privacy/
+        - title: sample isomer site
+          description: For references
+          url: https://www.tech.gov.sg/
   - infobar:
       title: How do I create a page?
       subtitle: Subtitle
