@@ -115,6 +115,6 @@ third_nav_title: Basics
 <p></p>
 <p></p>
 <h2>Demo</h2>
-<p>Create an 'About us' page with a card grid component <a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/workspace" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Create an 'Our management team' page with a card grid component <a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/workspace" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
