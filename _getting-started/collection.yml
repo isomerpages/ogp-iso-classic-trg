@@ -2,4 +2,5 @@ collections:
   getting-started:
     output: true
     order:
+      - Logging in to Isomer CMS.md
       - Understanding Isomer's template.md
