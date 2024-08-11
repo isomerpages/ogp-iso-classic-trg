@@ -20,8 +20,8 @@ sections:
         - title: best practices
           description: Organisation and SEO
           url: /privacy/
-        - title: sample isomer site
-          description: For references
+        - title: Publishing changes
+          description: Making your edits go live
           url: https://www.tech.gov.sg/
       button: understanding isomer
       url: /understanding-isomer/
