@@ -36,7 +36,7 @@ ways to create a distinct look.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cms_homepage_sections.png">
 </div>
-<h3>Hero sections </h3>
+<h3>Hero sections</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cms_hero_section.png">
@@ -51,7 +51,7 @@ ways to create a distinct look.</p>
 <p></p>
 <p></p>
 <hr>
-<h2>Migrating to Isomer templates</h2>
+<h2>Migrating to Isomer template</h2>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
