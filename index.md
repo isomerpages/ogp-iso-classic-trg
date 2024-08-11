@@ -24,9 +24,18 @@ sections:
           description: For references
           url: https://www.tech.gov.sg/
   - infobar:
-      title: How do I create a page?
-      subtitle: Subtitle
-      description: Pages are fundamental
-      button: Button text
+      title: Populating content
+      subtitle: starting out
+      description: Pages are a fundamental component of any website. They serve as the
+        primary means of presenting content and information to users.
+      button: start creating
       url: /faq/
+  - infopic:
+      title: Integrations
+      subtitle: enhance your site
+      id: infopic
+      description: Embed videos, social media posts to your site.
+      button: learn about embedding
+      url: /advance-features/
+      alt: Image alt text
 ---
