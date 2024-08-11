@@ -2,4 +2,4 @@ collections:
   getting-started:
     output: true
     order:
-      - Example Title.md
+      - Getting started.md
