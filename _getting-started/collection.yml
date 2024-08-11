@@ -4,6 +4,7 @@ collections:
     order:
       - Understanding Isomer's template.md
       - Logging in to Isomer CMS.md
+      - Basics/Checking my edits.md
       - Basics/.keep
       - Basics/Creating pages.md
       - Basics/Creating folders.md
