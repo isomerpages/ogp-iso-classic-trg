@@ -4,7 +4,7 @@ permalink: /advanced-integrations/
 variant: tiptap
 description: ""
 ---
-<h2>Only authorised external contents are allowed </h2>
+<h2>Only authorised external contents are allowed</h2>
 <p>Currently, content that the Isomer team deems as safe <strong>and</strong> necessary
 such as products from the OGP Product Suite such as FormSG, CheckFirst
 and commercial products like YouTube and Instagram are authorised.</p>
@@ -23,3 +23,6 @@ and commercial products like YouTube and Instagram are authorised.</p>
 </div>
 <p></p>
 <p></p>
+<h3>Thinking of embedding other things? </h3>
+<p>By default, Isomer does not allow running of Javascript, except for those
+whitelisted.</p>
