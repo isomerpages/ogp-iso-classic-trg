@@ -4,6 +4,7 @@ permalink: /advanced-integrations/
 variant: tiptap
 description: ""
 ---
+<h2>Only authorised external contents are allowed </h2>
 <p>Currently, content that the Isomer team deems as safe <strong>and</strong> necessary
 such as products from the OGP Product Suite such as FormSG, CheckFirst
 and commercial products like YouTube and Instagram are authorised.</p>
@@ -20,4 +21,5 @@ and commercial products like YouTube and Instagram are authorised.</p>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="692" width="100%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNDPeeps%2Fposts%2Fpfbid02R6Ciwi56TNoyykF8GjUadPk7ee4Afb3mMCbQg6cU455i7BzCniosotzf2nqDYp4pl&amp;show_text=true&amp;width=500"></iframe>
 </div>
+<p></p>
 <p></p>
