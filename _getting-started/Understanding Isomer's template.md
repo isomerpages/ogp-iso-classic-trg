@@ -5,22 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h2>Spot the similarity</h2>
-<h3><a href="http://pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa.gov.sg</a></h3>
+<p><a href="http://pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa.gov.sg</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="people association site" src="/images/pa_site.png">
-</div>
-<h3></h3>
-<h3><a href="http://tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tech.gov.sg</a></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tech gov" src="/images/tech_site.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pa_fullsite.png">
 </div>
 <p></p>
-<p></p>
-<h3><a href="http://mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi.gov.sg</a></h3>
+<p><a href="http://tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tech.gov.sg</a> 
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="mddi" src="/images/mddi_site.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/govtech_fullsite.png">
 </div>
 <p></p>
+<p></p>
+<p><a href="http://mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi.gov.sg</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mddi_fullsite.png">
+</div>
 <p></p>
 <p></p>
 <hr>
@@ -44,12 +46,12 @@ ways to create a distinct look.</p>
 <p></p>
 <p></p>
 <h3>Different combinations create distinctive vibes</h3>
-<h4><a href="https://sgf.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sgf.nparks.gov.sg</a></h4>
+<p><a href="http://sgf.nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgf.nparks.gov.sg</a> 
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nparks_sgf_Medium.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgf_fullsite.png">
 </div>
-<p></p>
 <p></p>
 <hr>
 <h2>Migrating to Isomer template</h2>
