@@ -2,4 +2,4 @@ collections:
   getting-started:
     output: true
     order:
-      - Getting started.md
+      - Understanding Isomer's template.md
