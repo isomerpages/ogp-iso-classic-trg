@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Basic editing
           description: Creating content
-          url: https://google.com
+          url: /basics/
         - title: advanced features
           description: Integrations and settings
-          url: https://gmail.com
+          url: /advanced-integrations/
         - title: best practices
           description: Organisation and SEO
           url: /privacy/
