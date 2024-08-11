@@ -2,6 +2,7 @@ collections:
   getting-started:
     output: true
     order:
+      - Advance integrations/.keep
       - Understanding Isomer's template.md
       - Logging in to Isomer CMS.md
       - Basics/.keep
