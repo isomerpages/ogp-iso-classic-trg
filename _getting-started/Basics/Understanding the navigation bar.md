@@ -11,11 +11,8 @@ third_nav_title: Basics
 It’s a bar of links that always sits at the top of your site. Site visitors
 can click on the links on the navigation bar to travel to different parts
 of your site.</p>
-<h3>Linking to the navigation bar</h3>
-<p>I have created the "About us" folder but I am not able to access it anywhere
-on the site. I would need to link "About us" folder to the <a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/navbar" rel="noopener noreferrer nofollow" target="_blank">navigation bar</a>.</p>
 <p></p>
-<h3>What can I link? </h3>
+<h3>What can I link?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/navbar.png">
@@ -56,4 +53,8 @@ or pages.</p>
 </ul>
 </li>
 </ul>
+<p></p>
+<h3>Demo - Linking to the navigation bar</h3>
+<p>I have created the "About us" folder but I am not able to access it anywhere
+on the site. I would need to link "About us" folder to the <a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/navbar" rel="noopener noreferrer nofollow" target="_blank">navigation bar</a>.</p>
 <p></p>
