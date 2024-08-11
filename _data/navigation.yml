@@ -6,3 +6,10 @@ links:
     collection: example-folder
   - title: Contact Us
     url: /contact-us/
+  - title: USEFUL LINKS
+    url: /useful-links/
+    sublinks:
+      - title: Isomer guide
+        url: https://guide.isomer.gov.sg/
+      - title: IsomerCMS
+        url: https://cms.isomer.gov.sg/
