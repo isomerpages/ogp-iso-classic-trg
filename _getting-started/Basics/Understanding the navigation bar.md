@@ -38,19 +38,6 @@ single pages to introduce their organisation, history and board of management.</
 <p><strong>Menu Group</strong> allows you to add <strong>custom group</strong> of
 links to your navigation bar. It can be used to link external resources
 or pages.</p>
-<ul>
-<li>
-<p>For instance,</p>
-<ul>
-<li>
-<p>Menu Group is used to link past editions of event guides.</p>
-</li>
-<li>
-<p>These event guides are PDFs files and not pages within the site.</p>
-</li>
-</ul>
-</li>
-</ul>
 </li>
 </ul>
 <p></p>
