@@ -10,11 +10,9 @@ sections:
       title: Welcome to Isomer
       subtitle: Here is a guide you can use.
       background: /images/hero-banner.png
-      button: Start your journey
-      url: /contact-us/
       key_highlights:
-        - title: Basics
-          description: Creating and editing pages
+        - title: Basic editing
+          description: Creating content
           url: https://google.com
         - title: advanced features
           description: Integrations and settings
