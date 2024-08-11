@@ -2,9 +2,9 @@ collections:
   getting-started:
     output: true
     order:
-      - Basics/Creating folders.md
-      - Basics/.keep
-      - Basics/Creating pages.md
-      - Basics/Understanding the navigation bar.md
       - Understanding Isomer's template.md
       - Logging in to Isomer CMS.md
+      - Basics/.keep
+      - Basics/Creating folders.md
+      - Basics/Creating pages.md
+      - Basics/Understanding the navigation bar.md
