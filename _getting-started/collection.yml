@@ -2,5 +2,6 @@ collections:
   getting-started:
     output: true
     order:
+      - Creating pages.md
       - Logging in to Isomer CMS.md
       - Understanding Isomer's template.md
