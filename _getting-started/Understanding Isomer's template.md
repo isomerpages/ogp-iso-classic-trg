@@ -63,13 +63,7 @@ and design.</p>
 </li>
 <li>
 <p><strong>Adapt</strong>: Fit your content into the template’s sections.</p>
-</li>
-<li>
-<p><strong>Optimize</strong>: Ensure usability and readability within the
-fixed design.</p>
-</li>
-<li>
-<p><strong>Test</strong>: Check for proper display and functionality.</p>
+<p></p>
 </li>
 </ul>
 <p></p>
