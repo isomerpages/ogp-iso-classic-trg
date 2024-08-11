@@ -23,6 +23,8 @@ sections:
         - title: sample isomer site
           description: For references
           url: https://www.tech.gov.sg/
+      button: understanding isomer
+      url: /understanding-isomer/
   - infobar:
       title: Populating content
       subtitle: starting out
