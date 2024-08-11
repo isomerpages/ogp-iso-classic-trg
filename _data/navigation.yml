@@ -6,7 +6,7 @@ links:
     collection: example-folder
   - title: Contact Us
     url: /contact-us/
-  - title: USEFUL LINKS
+  - title: Useful links
     url: /useful-links/
     sublinks:
       - title: Isomer guide
