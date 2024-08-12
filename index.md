@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Welcome to Isomer
       subtitle: Here is a guide you can use.
-      background: /images/hero-banner.png
+      background: /images/Homepage Images /hero-banner.png
       key_highlights:
         - title: Basic editing
           description: Creating content
@@ -24,7 +24,7 @@ sections:
           description: Making your edits go live
           url: https://www.tech.gov.sg/
       button: understanding isomer
-      url: /understanding-isomer/
+      url: /getting-started/understanding-isomer/
   - infobar:
       title: Populating content
       subtitle: starting out
