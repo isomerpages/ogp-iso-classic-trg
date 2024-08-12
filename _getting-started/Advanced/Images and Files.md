@@ -39,5 +39,7 @@ third_nav_title: Advanced
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_1_55_22_PM.png">
 </div>
 <p></p>
-<p></p>
+<p>If files are above 5MB, you can upload to <a href="http://go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a>! Each file however cannot exceed
+more than 20MB. Once uploaded, you can link this file in Isomer. <u><br></u>
+</p>
 <p></p>
