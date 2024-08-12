@@ -52,11 +52,9 @@ ways to create a distinct look.</p>
 <h3>Different combinations create distinctive vibes</h3>
 <p><a href="http://sgf.nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgf.nparks.gov.sg</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgf_fullsite.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/sgf_fullsite.png">
 </div>
-<p></p>
 <hr>
 <h2>Migrating to Isomer template</h2>
 <p></p>
