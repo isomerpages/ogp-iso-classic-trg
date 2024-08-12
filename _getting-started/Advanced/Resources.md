@@ -15,7 +15,7 @@ date filter (Shown Recent)</p>
 <p></p>
 <p>This can be created under Resource room in IsomerCMS.</p>
 <p>Note that once the resource room is named, it cannot be changed anymore.
-You would have to contact support for help.</p>
+You would have to contact Isomer support for help.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_1_45_18_PM.png">
 </div>
