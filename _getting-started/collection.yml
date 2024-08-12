@@ -2,9 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - Best practices/.keep
-      - Best practices/Page URL.md
-      - Best practices/Search Engine Optimisation.md
       - Understanding Isomer's template.md
       - Logging in to Isomer CMS.md
       - Basics/.keep
