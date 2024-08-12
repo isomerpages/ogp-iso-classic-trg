@@ -23,9 +23,6 @@ description: ""
 <p><a href="http://mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mddi_fullsite.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/mddi_fullsite.png">
 </div>
 <p></p>
