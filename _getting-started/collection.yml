@@ -2,7 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - Beware.md
       - Understanding Isomer's template.md
       - Logging in to Isomer CMS.md
       - Basics/.keep
@@ -16,3 +15,4 @@ collections:
       - Advanced/Resources.md
       - Advanced/Site colours and logo.md
       - Advanced/Search Engine Optimisation.md
+      - Beware.md
