@@ -2,8 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - Advance/Advanced integrations.md
-      - Advance/.keep
       - Best practices/.keep
       - Best practices/Page URL.md
       - Best practices/Search Engine Optimisation.md
@@ -14,3 +12,5 @@ collections:
       - Basics/Creating folders.md
       - Basics/Understanding the navigation bar.md
       - Basics/Checking my edits.md
+      - Advance/.keep
+      - Advance/Advanced integrations.md
