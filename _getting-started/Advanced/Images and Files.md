@@ -41,7 +41,7 @@ third_nav_title: Advanced
 <p></p>
 <p>If files are above 5MB, you can upload to <a href="http://go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a>! Each file however cannot exceed
 more than 20MB. Once uploaded, you can link this file in Isomer.</p>
-<p>Example:<strong> </strong><a href="https://go.gov.sg/jhtestterms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jhtestterms</a> 
+<p>Example:<strong> </strong><a href="https://go.gov.sg/jhtestterms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jhtestterms</a>
 </p>
 <p><u><br></u>
 </p>
