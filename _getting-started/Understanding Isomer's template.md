@@ -7,8 +7,6 @@ description: ""
 <h2>Spot the similarity</h2>
 <p><a href="http://pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa.gov.sg</a>
 </p>
-<hr>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/pa_fullsite.png">
 </div>
