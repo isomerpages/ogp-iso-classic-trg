@@ -7,23 +7,27 @@ description: ""
 <h2>Spot the similarity</h2>
 <p><a href="http://pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pa.gov.sg</a>
 </p>
+<hr>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pa_fullsite.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/pa_fullsite.png">
 </div>
-<p></p>
-<p><a href="http://tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tech.gov.sg</a> 
+<hr>
+<p><a href="http://tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tech.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/govtech_fullsite.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/govtech_fullsite.png">
 </div>
 <p></p>
-<p></p>
+<hr>
 <p><a href="http://mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mddi.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mddi_fullsite.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/mddi_fullsite.png">
+</div>
 <p></p>
 <hr>
 <h2>Same same but different</h2>
@@ -46,7 +50,7 @@ ways to create a distinct look.</p>
 <p></p>
 <p></p>
 <h3>Different combinations create distinctive vibes</h3>
-<p><a href="http://sgf.nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgf.nparks.gov.sg</a> 
+<p><a href="http://sgf.nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgf.nparks.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
