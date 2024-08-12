@@ -2,6 +2,7 @@ collections:
   getting-started:
     output: true
     order:
+      - Advance/.keep
       - Best practices/.keep
       - Best practices/Page URL.md
       - Best practices/Search Engine Optimisation.md
