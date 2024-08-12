@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Advanced
 ---
+<h2>Images</h2>
 <p>All your images that you upload will appear in the Images tab.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -22,4 +23,21 @@ third_nav_title: Advanced
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_1_51_56_PM.png">
 </div>
+<p></p>
+<h2>Files</h2>
+<p>Similarly for files, you would need to upload to the files tab here.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Files cannot exceed 5MB</p>
+</li>
+<li>
+<p>Files need not need to be arranged in folders</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_1_55_22_PM.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
