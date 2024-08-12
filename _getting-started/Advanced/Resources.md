@@ -20,3 +20,8 @@ You would have to contact Isomer support for help.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_1_45_18_PM.png">
 </div>
 <p></p>
+<p>You are able to create these 3 types of resources here.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/resource.png">
+</div>
+<p></p>
