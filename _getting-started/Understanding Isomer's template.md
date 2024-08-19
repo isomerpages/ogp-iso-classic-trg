@@ -33,25 +33,26 @@ Lego blocks. The blocks are predefined, but you can arrange them in various
 ways to create a distinct look.</p>
 <p></p>
 <h3>Homepage sections</h3>
+<p>There are 6 different sections for you to choose from - Infopic, Infobar,
+Resources, Annoucements, Text cards and Infocolumns.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cms_homepage_sections.png">
 </div>
 <h3>Hero sections</h3>
+<p>There are 4 different homepage banner layout - centre-aligned text, image
+only, side section and floating section.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cms_hero_section.png">
 </div>
 <p></p>
 <p></p>
-<h3>Different combinations create distinctive vibes</h3>
-<p><a href="http://sgf.nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sgf.nparks.gov.sg</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/sgf_fullsite.png">
-</div>
+<h3>A picture speaks a thousand word</h3>
+<p>For instance, the Singapore Garden Festival’s website uses homepage banner
+design to set a completely different tone.</p><a class="isomer-image-wrapper" href="sgf.nparks.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/sgf_fullsite.png"></a>
 <hr>
-<h2>Migrating to Isomer template</h2>
+<h2>Tips </h2>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
