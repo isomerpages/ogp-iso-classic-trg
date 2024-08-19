@@ -15,14 +15,15 @@ third_nav_title: Basics
 <p></p>
 <ul>
 <li>
-<p><strong>Folders</strong> allows you to organise pages with related content
-together.</p>
-<p></p>
+<p>Folders allows you to organise pages with related content together.</p>
 </li>
 <li>
 <p>Folder headers are often a summarised title of the content pages. For
 example, organisations’ pages often have an “About us” folder with single
 pages to introduce their organisation, history and board of management.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/folderandpages.png">
+</div>
 </li>
 </ul>
 <p></p>
