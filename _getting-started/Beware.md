@@ -26,6 +26,10 @@ at the present moment: <strong><u>It should never be on Isomer until it is no lo
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_19_at_10_19_18_PM.png">
+</div>
 <hr>
 <p></p>
 <p></p>
