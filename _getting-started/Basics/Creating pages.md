@@ -11,6 +11,17 @@ third_nav_title: Basics
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/create_page.png">
 </div>
 <p>For every page you create, there will be such a modal popup.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Edit the Page Settings &gt; Page Title</p>
+</li>
+<li>
+<p>Page URL will be auto-populated</p>
+</li>
+<li>
+<p>Page URL can be edited once the page has been created</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/creating_pages.png">
 </div>
