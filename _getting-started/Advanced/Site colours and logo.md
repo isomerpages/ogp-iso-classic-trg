@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Advanced
 ---
-<h2>Colours </h2>
+<h2>Colours</h2>
 <p>In Isomer, you can further customise your site by using colours. Colours
 is an important element of your site. It can bring out or even reinforce
 the branding and personality of the agency. Each Isomer website allows
@@ -32,9 +32,11 @@ on the logo will also bring the user to the homepage by default.</p>
 </div>
 <p></p>
 <p></p>
-<h2>Where can I edit my colours and logo? </h2>
-<p></p>
-<p></p>
+<h2>Where can I edit my colours and logo?</h2>
+<p>You can edit it via Site settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_20_at_7_35_45_AM.png">
+</div>
 <p></p>
 <h2></h2>
 <p></p>
