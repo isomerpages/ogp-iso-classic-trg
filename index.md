@@ -22,7 +22,7 @@ sections:
           url: /privacy/
         - title: Publishing changes
           description: Making your edits go live
-          url: https://www.tech.gov.sg/
+          url: /getting-started/publishing-your-changes/
       button: understanding isomer
       url: /getting-started/understanding-isomer/
   - infobar:
