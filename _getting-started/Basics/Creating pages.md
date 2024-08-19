@@ -22,18 +22,14 @@ third_nav_title: Basics
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/toolbar.png">
-</div>
-<p></p>
 <hr>
 <p></p>
 <p></p>
 <p></p>
-<h2>Examples </h2>
+<h2>Examples</h2>
 <p></p>
 <p>Here are some of the content block examples you can add to your site.</p>
-<h3>Card grid with images </h3>
+<h3>Card grid with images</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
@@ -121,13 +117,14 @@ third_nav_title: Basics
 <p></p>
 <p></p>
 <h2>Most importantly...</h2>
-<p></p>
+<p>Remember to click on the save button on the<strong> bottom right corner</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/save_button1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/remembertosave.png">
 </div>
 <p></p>
-<p></p>
 <h2>Demo</h2>
-<p>Create an 'Our management team' page with a card grid component <a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/workspace" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Create an '<strong>Our management</strong>' page with a <strong>card grid component</strong> 
+<a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/workspace" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
+<p></p>
 <p></p>
