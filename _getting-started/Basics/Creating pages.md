@@ -8,7 +8,7 @@ third_nav_title: Basics
 <p>Pages are where you can populate your content proper.</p>
 <p>Start by clicking any "create page" button.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/create_page.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/create_page.png">
 </div>
 <p>For every page you create, there will be such a modal popup.</p>
 <div class="isomer-image-wrapper">
