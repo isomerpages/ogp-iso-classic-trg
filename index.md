@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Basic editing
           description: Creating content
-          url: /basics/
+          url: /creating-pages/
         - title: advanced features
           description: Integrations and settings
           url: /advanced-integrations/
