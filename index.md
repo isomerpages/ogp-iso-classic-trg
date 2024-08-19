@@ -19,7 +19,7 @@ sections:
           url: /advanced-integrations/
         - title: best practices
           description: Organisation and SEO
-          url: /privacy/
+          url: /search-engine-optimisation/
         - title: Publishing changes
           description: Making your edits go live
           url: /getting-started/publishing-your-changes/
@@ -31,7 +31,7 @@ sections:
       description: Pages are a fundamental component of any website. They serve as the
         primary means of presenting content and information to users.
       button: start creating
-      url: /faq/
+      url: /basics/
   - infopic:
       title: Integrations
       subtitle: enhance your site
@@ -40,4 +40,5 @@ sections:
       button: learn about embedding
       url: /advance-features/
       alt: Image alt text
+      image: /images/Site examples/sgf_fullsite.png
 ---
