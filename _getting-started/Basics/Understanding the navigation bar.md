@@ -6,13 +6,12 @@ description: ""
 third_nav_title: Basics
 ---
 <h2>What is a navigation bar?</h2>
-<p>Look on top of this site. Notice a bar of links?</p>
 <p>The <strong>Navigation Bar</strong> brings all your pages and content together.
 It’s a bar of links that always sits at the top of your site. Site visitors
 can click on the links on the navigation bar to travel to different parts
 of your site.</p>
 <p></p>
-<h3>What can I link?</h3>
+<h3></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/navbar.png">
