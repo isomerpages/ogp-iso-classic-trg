@@ -15,3 +15,5 @@ links:
         url: https://cms.isomer.gov.sg/
       - title: Sample site
         url: https://www.tech.gov.sg
+  - title: New folder
+    collection: about-us
