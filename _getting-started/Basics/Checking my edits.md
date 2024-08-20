@@ -19,9 +19,9 @@ right side.</p>
 <li>
 <p>Click on “Save” and wait for the status “Updating staging site” on the
 upper right corner to turn <strong>green</strong>.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/staging_load.png">
