@@ -26,7 +26,7 @@ understand the hierarchy and relationships between pages.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_2_11_57_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_2_11_57_PM.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -35,7 +35,7 @@ understand the hierarchy and relationships between pages.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_2_13_32_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_2_13_32_PM.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -44,7 +44,7 @@ understand the hierarchy and relationships between pages.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_20_at_8_55_09_AM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_20_at_8_55_09_AM.png">
 </div>
 <p></p>
 <h2>Site level</h2>
@@ -52,7 +52,7 @@ understand the hierarchy and relationships between pages.</p>
 <li>
 <p>Under site settings, you can change your Site Title, Site Description.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_2_15_45_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_12_at_2_15_45_PM.png">
 </div>
 </li>
 </ul>
