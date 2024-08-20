@@ -15,7 +15,8 @@ description: ""
 </li>
 <li>
 <p>If you’re having trouble and the guide doesn’t resolve your issue, reach
-out to support for assistance.</p>
+out to support for assistance. <a href="mailto:support@isomer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a> 
+</p>
 </li>
 </ul>
 <p></p>
