@@ -133,6 +133,9 @@ third_nav_title: Basics
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/remembertosave.png">
 </div>
 <p></p>
+<h2>Note </h2>
+<p>Two users cannot simultaneously edit and save the same page.</p>
+<p></p>
 <h2>Demo</h2>
 <p>Create an '<strong>Our management</strong>' page with a <strong>card grid component</strong> 
 <a href="https://cms.isomer.gov.sg/sites/ogp-iso-classic-trg/workspace" rel="noopener noreferrer nofollow" target="_blank">here</a>
