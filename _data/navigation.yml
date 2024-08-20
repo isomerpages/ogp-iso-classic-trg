@@ -1,5 +1,7 @@
 logo: /images/Homepage Images /isomer-logo.svg
 links:
+  - title: About us
+    collection: about-us
   - title: Example Page
     url: /example-page/
   - title: Example Folder
