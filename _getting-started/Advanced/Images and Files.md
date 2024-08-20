@@ -25,7 +25,7 @@ third_nav_title: Advanced
 </div>
 <p></p>
 <h2>Files</h2>
-<p>Similarly for files, you would need to upload to the files tab here.</p>
+<p>Similarly for files, you upload will appear in the files tab.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Files cannot exceed 5MB</p>
