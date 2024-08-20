@@ -2,7 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - Thank you.md
       - Understanding Isomer's template.md
       - Logging in to Isomer CMS.md
       - Basics/.keep
@@ -18,3 +17,4 @@ collections:
       - Advanced/Search Engine Optimisation.md
       - Publishing your changes.md
       - Caution.md
+      - Thank you.md
