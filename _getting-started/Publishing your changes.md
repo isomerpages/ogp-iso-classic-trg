@@ -55,10 +55,13 @@ that other reviewers can un-approve an approved request.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/approve2.png">
 </div>
 <p></p>
-<p>Once approved, you will see this success message.</p>
+<p>Once approved, you will see this success message. You can choose to publish
+it now or later.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/approve3.png">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
