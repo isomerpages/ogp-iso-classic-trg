@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Basics
 ---
-<h2>What is a staging site? </h2>
+<h2>What is a staging site?</h2>
 <p>The<strong> staging site</strong> is where all changes made in the IsomerCMS
-are saved to. The contents in the staging site will not show in the production
+are saved to. The contents in the staging site will not show in the live
 site until a review request is approved and published.</p>
 <p></p>
 <h2>Opening your staging site</h2>
