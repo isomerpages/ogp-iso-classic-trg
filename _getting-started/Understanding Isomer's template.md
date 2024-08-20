@@ -34,7 +34,7 @@ ways to create a distinct look.</p>
 <p></p>
 <h3>Homepage sections</h3>
 <p>There are 6 different sections for you to choose from - Infopic, Infobar,
-Resources, Annoucements, Text cards and Infocolumns.</p>
+Resources, Announcements, Text cards and Infocolumns.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cms_homepage_sections.png">
@@ -52,7 +52,7 @@ only, side section and floating section.</p>
 <p>For instance, the Singapore Garden Festival’s website uses homepage banner
 design to set a completely different tone.</p><a class="isomer-image-wrapper" href="sgf.nparks.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site examples/sgf_fullsite.png"></a>
 <hr>
-<h2>Tips </h2>
+<h2>Tips</h2>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
